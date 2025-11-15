@@ -27,14 +27,14 @@ Full PDF report: [Library Management System Project By Mohith](https://github.co
 ### **📍 As-Is Process (Current Manual System)**  
 This shows how books are currently managed manually.
 
-[![As-Is Process](diagrams/as_is_process_map.png)]([ADD_LINK_HERE](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/diagrams/as_is_process_map.png))
+[![As-Is Process](diagrams/as_is_process_map.png)](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/diagrams/as_is_process_map.png)
 
 ### **📍 To-Be Process (Future Automated LMS)**  
 Represents the improved flow after automation.
 
-[![To-Be Process](diagrams/to_be_process_map.png)]([ADD_LINK_HERE](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/diagrams/to_be_process_map.png))
+[![To-Be Process](diagrams/to_be_process_map.png)](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/diagrams/to_be_process_map.png)
 
-🔗 Diagrams folder: [ADD_LINK_HERE](https://github.com/mohithgaru/Stanford-LMS-Project/tree/main/diagrams)
+🔗 Diagrams folder: [Daigram Folder](https://github.com/mohithgaru/Stanford-LMS-Project/tree/main/diagrams)
 
 ---
 
@@ -43,21 +43,21 @@ Represents the improved flow after automation.
 ## **📌 Use Case Diagram (Scope Overview)**  
 Shows all user interactions with the system.
 
-[![Use Case Diagram](diagrams/use_case_diagram.png)]([ADD_LINK_HERE](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/diagrams/use_case_diagram.png))
+[![Use Case Diagram](diagrams/use_case_diagram.png)](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/diagrams/use_case_diagram.png)
 
 ---
 
 ## **📌 Data Flow Diagram (DFD)**  
 Illustrates how information moves through LMS.
 
-[![DFD](diagrams/dfd_diagram.png)]([ADD_LINK_HERE](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/diagrams/dfd_diagram.png))
+[![DFD](diagrams/dfd_diagram.png)](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/diagrams/dfd_diagram.png)
 
 ---
 
 ## **📌 Entity Relationship Diagram (ERD)**  
 Defines the database structure for ISSUANCE, STUDENT, MATERIAL, LOAN, FINES, etc.
 
-[![ER Diagram](diagrams/er_diagram.png)]([ADD_LINK_HERE](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/diagrams/er_diagram.png))
+[![ER Diagram](diagrams/er_diagram.png)](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/diagrams/er_diagram.png)
 
 ---
 
@@ -74,10 +74,10 @@ Docs folder: ADD_LINK_HERE
 These represent staff-facing screens — designed using Python scripts.
 
 ### **Book Record Creation Wireframe**
-[![Book Record](wireframes/screenshots/book_record_wireframe.png)]([ADD_LINK_HERE](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/wireframes/screenshots/wireframe%201.jpg))
+[![Book Record](wireframes/screenshots/book_record_wireframe.png)](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/wireframes/screenshots/wireframe%201.jpg)
 
 ### **Student Checkout Wireframe**
-[![Checkout Screen](wireframes/screenshots/checkout_wireframe.png)]([ADD_LINK_HERE](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/wireframes/screenshots/wireframe%202.jpg))
+[![Checkout Screen](wireframes/screenshots/checkout_wireframe.png)](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/wireframes/screenshots/wireframe%202.jpg)
 
 🔗 Wireframes folder: ADD_LINK_HERE
 
@@ -97,7 +97,7 @@ Each diagram/wireframe has an associated Python script.
 | Book Record Wireframe      | [python/wireframe_book_record.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/wireframes/screenshots/wireframe%201.jpg) |
 | Checkout Screen Wireframe  | [python/wireframe_checkout.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/wireframes/screenshots/wireframe%202.jpg) |
 
-Python folder: [ADD_LINK_HERE](https://github.com/mohithgaru/Stanford-LMS-Project/tree/main/python)
+Python folder:(https://github.com/mohithgaru/Stanford-LMS-Project/tree/main/python)
 
 ---
 
