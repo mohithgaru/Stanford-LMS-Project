@@ -89,16 +89,16 @@ These represent staff-facing screens — designed using Python scripts.
 Each diagram/wireframe has an associated Python script.
 
 | Diagram / Wireframe        | Script Path |
-|---------------------------|--------------|
-| As-Is Flowchart           | `[python/flowchart_as_is.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/python/As_is%20Process%20Map.py)` |
-| To-Be Flowchart           | `[python/flowchart_to_be.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/python/to%20be%20process%20map.py)` |
-| ER Diagram                | `[python/er_diagram.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/python/Er%20daigram.py)` |
-| DFD Diagram               | `[python/dfd_diagram.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/python/Data%20Flow%20Daigram.py)` |
-| Use Case Diagram          | `[python/use_case_diagram.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/python/Use%20case%20diagram.py)` |
-| Book Record Wireframe     | `[python/wireframe_book_record.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/wireframes/screenshots/wireframe%201.jpg)` |
-| Checkout Screen Wireframe | `[python/wireframe_checkout.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/wireframes/screenshots/wireframe%202.jpg)` |
+|----------------------------|-------------|
+| As-Is Flowchart            | [python/flowchart_as_is.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/python/As_is%20Process%20Map.py) |
+| To-Be Flowchart            | [python/flowchart_to_be.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/python/to%20be%20process%20map.py) |
+| ER Diagram                 | [python/er_diagram.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/python/Er%20daigram.py) |
+| DFD Diagram                | [python/dfd_diagram.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/python/Data%20Flow%20Daigram.py) |
+| Use Case Diagram           | [python/use_case_diagram.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/python/Use%20case%20diagram.py) |
+| Book Record Wireframe      | [python/wireframe_book_record.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/wireframes/screenshots/wireframe%201.jpg) |
+| Checkout Screen Wireframe  | [python/wireframe_checkout.py](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/wireframes/screenshots/wireframe%202.jpg) |
 
-Python folder: ADD_LINK_HERE
+Python folder: [ADD_LINK_HERE](https://github.com/mohithgaru/Stanford-LMS-Project/tree/main/python)
 
 ---
 
