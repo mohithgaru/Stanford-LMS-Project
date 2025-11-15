@@ -19,9 +19,8 @@ This project includes:
 - Python scripts for diagram/wireframe generation  
 - Final business analysis PDF  
 
-Full PDF report: [**ADD_LINK_HERE**](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/docs/Library%20Management%20System%20Project%20By%20Mohith.pdf)
+Full PDF report: [Library Management System Project By Mohith](https://github.com/mohithgaru/Stanford-LMS-Project/blob/main/docs/Library%20Management%20System%20Project%20By%20Mohith.pdf)
 
----
 
 # 🔄 2. As-Is & To-Be Process Maps
 
